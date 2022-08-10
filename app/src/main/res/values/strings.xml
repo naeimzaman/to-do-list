@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_text_hint"><Font size="8">Enter The Task Name</Font></string>
+    <string name="title">Title</string>
+    <string name="alarm_text">Give Alarm</string>
+    <string name="set_time_text">Set Time here</string>
+    <string name="set_date_text">Set Date Here</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+</resources>
